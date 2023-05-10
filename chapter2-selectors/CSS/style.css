@@ -1,0 +1,46 @@
+/* *{
+    border: 1px solid salmon;
+} */
+
+body {
+
+    font-size: 56px;
+    
+
+}
+
+h1,h2{
+    color: rgb(81, 41, 119);
+}
+
+
+.bhuvana {
+
+    color: yellowgreen;
+
+}
+
+
+.highlight {
+
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+
+p {
+    color: maroon ;
+}
+
+
+p {
+    color: red;
+}
+
+
+
+
+
+#Second {
+    font-style: italic;
+}

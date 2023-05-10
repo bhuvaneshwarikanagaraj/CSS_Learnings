@@ -1,0 +1,18 @@
+body {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: papayawhip;
+    color: #011407;
+}
+p{
+    /* color: rgba(0,0,0,0,1
+    ); */
+    /* color: #000000; */
+    /* shorthand */
+    /* color: #000;
+    color: #f00; */
+    color: #011407;
+
+
+}
