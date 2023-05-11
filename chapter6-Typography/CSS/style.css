@@ -1,0 +1,47 @@
+*{
+    background-color: antiquewhite;
+}
+
+body{
+    padding: 10%;
+    font-size: 1rem;
+    color: purple;
+    text-indent: 2em;
+    
+}
+/* label{
+    font-size: inherit;
+}
+button{
+    font-size: initial;
+}
+ */
+ p{
+    /* text-decoration: overline; */
+
+    /* text-decoration: underline; */
+
+  /*   text-decoration: line-through; */
+
+   /* text-decoration: none; 
+   Makes the link un-underlined*/
+
+    text-transform: capitalize; 
+    
+/*     captilize the first letter of the word */
+     text-transform: lowercase;
+     text-transform: uppercase;
+     text-align: justify;
+     text-indent: 4em;
+     line-height: 1.7;
+     letter-spacing: 0.1em;
+     word-spacing: 0.5em;
+     font-weight: 700;
+     /* Haves the values ranges between 100-900 to vary its boldness */
+     font-family: 'Courier New', Courier, monospace;
+     /* it uses courier New font if that is not alvailable than its gonna choose the nearby font style */
+     /* font-family: 'Roboto', sans-serif; */
+     font-family: 'Konkhmer Sleokchher', cursive;
+
+
+ }
