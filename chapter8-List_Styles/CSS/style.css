@@ -1,0 +1,31 @@
+ol{
+
+    list-style-type :lower-alphas;
+    padding: 0;
+}
+
+ul{
+
+    list-style-type: square;
+    text-align: left;
+    list-style-position: inside;
+    color: blue;
+    line-height: 0.6;
+    list-style-image:url(../../Images/Checkmark.png) ;
+    list-style-image: url(../../Images/checkmarkBlack.png);
+}
+
+
+/*THe below listed one is the Sudo class*/
+/*In this nth- child(Anything like just number 2 or even or odd can be passed , which allows to change a particular values alone)*/
+
+ul li:nth-child(Even){
+    color: red;
+
+}
+/*Sudo Element* it starts with :: */
+
+ol::marker{
+    font-size: 4em;
+
+}
